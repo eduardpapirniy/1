@@ -1,0 +1,25 @@
+body{ 
+    background-color: rgb(100, 3, 190);
+}
+
+.container{  
+    position: fixed; left: 40% ; top: 40%;
+}
+
+legend{
+   background: rgb(100, 100, 245);
+   padding: 10px 10px;
+   border: 5px solid black;
+ }
+
+fieldset{
+ border: 1px solid black;
+ border-radius: 20px;
+ width: 250px;
+ text-align: center; 
+ background-color: rgb(161, 106, 233);    
+}
+
+.panel{
+    text-align: auto;
+}
